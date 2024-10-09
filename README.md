@@ -5,7 +5,7 @@
 
 ### HƯỚNG DẪN
 
-Chạy 'python main.py' để khởi động chương trình
+Chạy `python main.py` để khởi động chương trình
 Game có thể được chơi ở chế độ **4x4** hoặc **9x9**, có hướng dẫn cụ thể cách chơi của game ở màn hình chính
 
 ### TÍNH NĂNG
